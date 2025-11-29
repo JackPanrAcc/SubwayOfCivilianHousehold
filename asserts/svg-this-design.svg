@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <text fill="#FF5733" font-size="36" font-family="Segoe UI, Roboto, "Noto Sans SC", sans-serif">地道避难所方案</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="64" viewBox="0 0 600 64" role="img" aria-labelledby="title">
+  <title id="title">地道避难所方案</title>
+  <text x="0" y="44" fill="#FF5733" font-size="36" font-family="Segoe UI, Roboto, Noto Sans SC, sans-serif">地道避难所方案</text>
 </svg>
