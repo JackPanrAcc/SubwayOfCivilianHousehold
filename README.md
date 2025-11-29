@@ -1,6 +1,11 @@
 # SubwayOfCivilianHousehold
 <br/>https://github.com/JackPanrAcc/SubwayOfCivilianHousehold
-<br/>为了满足在战区生活的 20人左右的家庭的生命避难需求，设计一款自助建设 ![地道避难所方案](./assets/svg-this-design.svg)
+<br/>为了满足在战区生活的 20人左右的家庭的生命避难需求，设计一款自助建设![地道避难所方案](./assets/svgtagThisDesign.svg)a
+<br/>这是正文![地道避难所方案](./assets/svgtagThisDesign.svg)继续正文
+<br/>
+<br/>
+<br/>这是正文<img src="./assets/svgtagThisDesign.svg" alt="地道避难所方案" width="120" />继续正文
+<br/>
 ```
 
 <br/>
