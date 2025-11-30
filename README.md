@@ -1,4 +1,4 @@
-<H2>地下避难所方案SubwayOfCivilianHousehold（未完成）</H2>
+# <H2>地下避难所方案SubwayOfCivilianHousehold（未完成）</H2>
 <br/>为满足战区平民的生命避难需求，尝试设计一套可以自助建设的「<mark>地下避难所方案</mark>」]。此方案适合 20人左右的家庭。
 <br/><sub>项目地址：http://github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/><sub>项目思路：竖直向下挖掘10米后，构筑「阻击区」防止人员进入。在阻击区后侧出口修建密封门防止水淹烟熏</sub>
