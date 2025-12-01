@@ -4,10 +4,10 @@
 <br/><sub>概览地址：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
 <br/><sub>项目地址：github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
-<br/>*** 重要提示 ***：
+<br/> *** 重要提示 ***：
 <br/>1、<b>通风口伪装</b>。通风口的隐蔽性是地道型避难所的最重要的考虑点。不具备隐蔽通风口的风险太大、考虑地道的特殊性不建议挖掘
 <br/>2、<b>地下水情况</b>。地下50米内有大量流动地下水则不可执行。适度富含水份需要增加防水结构或控压结构，防水工程量太大太难不建议挖掘
-<br/>3、<b>地层性质</b>。地下50米内有地质断裂带或流沙等结构则不可执行。地质结构太软需要增加额外的支撑件结构，支撑工程量太大太难不建议挖掘
+<br/>3、<b>地层性质</b>。地下50米内有地质断裂带或流沙等结构则不可执行。地质结构太软要增加支撑结构，支撑工程量太大太难不建议挖掘
 <hr>关于地层性质&地下水：&nbsp;
 <br/>1、上网查找当地地质资料或观察附近山势，了解地质断裂带
 <br/>2、根据地表裸露情况和地质演化史，假设有哪些地层结构及均匀性。注：地质结构一般呈现条状、和断裂带平行
