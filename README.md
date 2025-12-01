@@ -1,10 +1,10 @@
 #   地下避难所方案SubwayOfCivilianHousehold（未完成）
-为满足战区平民的生命避难需求，尝试设计一套可以自助建设的「<mark>地下避难所</mark>」]方案。此方案适合30人左右的大家庭
+为满足战区平民的生命避难需求，尝试设计一套可以自助建设的「<mark>地下避难所</mark>」方案。此方案适合30人左右的大家庭
 <br/><sub>设计思路：向下挖掘「10米深的竖井」、再建造「阻击区」拒敌进入。阻击区的下侧设置「气封防爆门」防止烟熏水淹进「避难所」</sub>
 <br/><sub>概览地址：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
 <br/><sub>项目地址：github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
-<br/> *** 重要提示 ***：
+<br/><mark>重要提示</mark>：
 <br/>1、<b>通风口伪装</b>。通风口的隐蔽性是地道型避难所的最重要的考虑点。不具备隐蔽通风口的风险太大、考虑地道的特殊性不建议挖掘
 <br/>2、<b>地下水情况</b>。地下50米内有大量流动地下水则不可执行。适度富含水份需要增加防水结构或控压结构，防水工程量太大太难不建议挖掘
 <br/>3、<b>地层性质</b>。地下50米内有地质断裂带或流沙等结构则不可执行。地质结构太软要增加支撑结构，支撑工程量太大太难不建议挖掘
