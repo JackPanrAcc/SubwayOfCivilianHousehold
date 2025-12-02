@@ -1,6 +1,6 @@
-#   地下避难所方案SubwayOfCivilianHousehold（未完成）
+#   地下避难所方案SubwayOfHousehold（未完成）
 为满足战区平民的生命避难需求，尝试设计一套可以自助建设的「<mark>地下避难所</mark>」方案。此方案适合30人左右的大家庭
-<br/><sub>设计思路：向下挖掘「10米深的竖井」、再建造「阻击区」拒敌进入。阻击区的下侧设置「气封防爆门」防止烟熏水淹进「避难所」</sub>
+<br/><sub>设计思路：向下挖掘「10米深的竖井」、再建造「伏击区」拒敌进入。阻击区的下侧设置「气封防爆门」防止烟熏水淹进「避难所」</sub>
 <br/><sub>概览地址：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
 <br/><sub>项目地址：github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
