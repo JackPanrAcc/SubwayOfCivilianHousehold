@@ -5,7 +5,8 @@
 <br/>1、<b>通风口伪装</b>。通风口的隐蔽性是地下避难所最重要的考虑点。不具备隐蔽排风口的地下避难所风险极大、建议选择其它避难方式
 <br/>2、<b>地下水情况</b>。地下50米内有大量流动的地下水则不可执行。适度含水需要增加防水结构或控压结构，防水工程量太大太难不建议挖掘
 <br/>3、<b>地层性质</b>。地下50米内有地质断裂带或流沙等结构则不可执行。地质结构太软需要增加支撑结构，支撑工程量太大太难不建议挖掘
-<hr><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama.jpg'></img>
+<hr>
+<br/><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama.jpg'><br/>
 <sub>三维概览：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
 <br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.v08.FCStd'>下载后、可以使用「开源freeCAD程序」查看和编辑源文件</a></sub><br/><sub>项目地址：github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
@@ -66,7 +67,7 @@
 <br/>
 <br/><del><sub>关于地道伏击战术</sub></del>
 <br/>13、伏击区侧面结构 见下图
-<img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAmbushDesign.jpg'></img>
+<br/><img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAmbushDesign.jpg'><br/>
 <br/>13.1、frontWell轴和「伏击区斜坡」交汇点记为《伏击区中心点/AmbushRoomCenter》
 <br/>13.2、斜坡步行道的宽度推荐0.3米。需要错开frontWell竖井。施工时有大型珩架。平时放置小型的辅助码头，伏击前及时撤走辅助码头
 <br/>13.3、步行道下侧斜坡斜率推荐45度。参考弹坑的坑壁稳定角，粉质土约35度，粘土约45度，岩石类约60度
