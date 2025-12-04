@@ -11,7 +11,7 @@
 <br/><sub>三维概览：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
 <br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.v08.FCStd'>下载后、可以使用「开源freeCAD程序」查看和编辑源文件</a></sub>
 <br/><sub>项目说明：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold'>https://jackpanracc.github.io/SubwayOfCivilianHousehold</a></sub>
-<br/><sub>项目地址：github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
+<br/><sub>项目地址：欢迎到这里提供您的技术建议 github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
 <br/>
 <br/>设计和挖掘 的注意事项：
