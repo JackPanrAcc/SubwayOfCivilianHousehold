@@ -1,5 +1,5 @@
 #   Cheaper Shelter：$10000 save 30 peoples（未完成）
-项目目标：为满足战区平民的生命避难需求，设计一套低成本的、可自助建设的、按照MIT协议免费的「地下避难所」方案
+项目目标：为满足战区平民的生命避难需求，设计一套「<mark>可低成本自助建设的地下避难所</mark>」的方案
 <br/>项目思路：向下挖掘「5米深的竖井」后构造「伏击区」拒敌进入。伏击区的后方再设置「气封防爆门」可以避免烟熏水淹危及避难者
 <br/><mark>重要提示</mark>：
 <br/>1、<b>通风口伪装</b>。通风口的隐蔽性是地下避难所最重要的考虑点。不具备隐蔽排风口的地下避难所风险极大、建议选择其它避难方式
@@ -8,10 +8,10 @@
 <br/>
 <hr>
 <br/><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama.jpg'>
+<br/><sub>方案说明：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold'>https://jackpanracc.github.io/SubwayOfCivilianHousehold</a></sub>
 <br/><sub>三维概览：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
-<br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.v08.FCStd'>下载后、可以使用「开源freeCAD程序」查看和编辑源文件</a></sub>
-<br/><sub>项目说明：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold'>https://jackpanracc.github.io/SubwayOfCivilianHousehold</a></sub>
-<br/><sub>项目地址：欢迎到这里提供您的技术建议 github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
+<br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.v08.FCStd'>下载后、可以使用「开源的FreeCAD程序」查看和编辑源文件</a></sub>
+<br/><sub>项目地址：欢迎在这里登记您的技术建议 github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
 <br/>
 <br/>设计和挖掘 的注意事项：
@@ -30,10 +30,10 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从「气泵房」到「避难所空气浑浊处」布置空调风道，使用风扇泵送清洁空气
 <br/>
 <br/>3、本方案所涉及的伏击区的重要点位
-<br/>3.1、「伏击区前线竖井」中轴线下端点是整个地道的测绘基准点，记为《<b>frontWell点</b>》
+<br/>3.1、「伏击区前线竖井」中轴线下端点是整个地道的测绘基准点，记为《<b>frontWell</b>》
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontWell距地表约10米。包含主出入口竖井4米、无防护集结区2米、伏击区前线竖井4米
-<br/>3.2、「首席伏击岗哨」和frontWell点等高，记为《<b>theGuard点</b>》
-<br/>3.3、「伏击区后方竖井」中轴线和frontWell、theGuard等高的地方，记为《<b>backWell点</b>》
+<br/>3.2、「首席伏击岗哨」和frontWell点等高，记为《<b>theGuard</b>》
+<br/>3.3、「伏击区后方竖井」中轴线和frontWell、theGuard等高的地方，记为《<b>backWell</b>》
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;backWell 会安排通风孔和通讯线孔，其位置可以得到进一步校正
 <br/>
 <br/>4、建议「backWell 轴线」和「气泵房通道 轴线」相互可直接目视。降低定位的误差
@@ -94,8 +94,9 @@
 <br/>
 <br/><del><sub>关于反无人机战术</sub></del>
 <br/>22、反无人机 = a)钢筋撑起渔网、并加装铁丝拒绝接触式爆破 b)发射渔网冲扫无人机 c)锯短的霰弹枪 d)无线干扰枪+竖井内剪光纤
-<br/>23、防强攻渔网。渔网固定在钢筋前端张起、贴合住伏击区后方走廊。上两根钢筋可远程解绑、渔网下垂后用下侧钢筋拖回修补
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在「伏击区后方走廊」外设置渔网维修区。存储五套渔网、钢筋、以及补渔网所需小铁丝等物资
+<br/>23、防强攻渔网。渔网固定在「X展架」上、四边贴近伏击区后方走廊。连续部署多张渔网。
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;维保人员站第二张渔网后面，伸手可以收起第一张渔网的「X展架」拖回修补
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另有防侦查垂帘。20φ0.5的铁棒一头作挂钩一头打孔，串联成垂帘。不会妨碍人车出入，被爆破后捡起来串回去即可
 <br/>24、防逃脱渔网。frontWell位置做三、四个挂钩。从战壕水平伸出竹竿，顶端是直径1.2米的圆形鱼网，卡住后可以防无人机逃脱
 <br/>25、剪光纤。骚扰哨的射击口是0.35米的宽形口子，找个铁钩子可以伸进去尝试捞光纤
 <br/>
