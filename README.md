@@ -13,7 +13,6 @@
 <br/><sub>项目地址：欢迎在这里登记您的技术建议 github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
 <br/>
-<br/>
 <br/>《设备清单》
 <br/>1、电阻式找水仪。$1000，如果可能建议租借
 <br/>
