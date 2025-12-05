@@ -8,7 +8,7 @@
 <br/>
 <hr><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama2.jpg'>
 <br/><sub>方案说明：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold'>https://jackpanracc.github.io/SubwayOfCivilianHousehold</a></sub>
-<br/><sub>三维概览：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold2.htm</a></sub>
+<br/><sub>三维概览：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold2.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold2.htm</a></sub>
 <br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.FCStd'>下载后、可以使用「开源的FreeCAD程序」查看和编辑源文件</a></sub>
 <br/><sub>项目地址：欢迎在这里登记您的技术建议 github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
