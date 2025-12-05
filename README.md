@@ -107,7 +107,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主伏击岗附近设灯光照向伏击区的屋顶，通过反射光进行照明
 <br/>15、针对frontWell 竖井内的敌人设置骚扰哨位。射击口大小酌情80x35x5
 <br/>16、在AmbushRoomCenter正下方设置狙击哨位。射击孔大小酌情250φ10。射击口用金属管保护，被堵时用子弹打击后捅管疏通
-<br/><img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAttack2.jpg'> 如图所示，隐藏AmbushZone 和backWell 可以看见上述射击孔。如果没有枪用弓驽也能起到阻吓的效果，一般敌人不会贸然进入伏击区
+<br/><img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAttack2.jpg'> 如图所示，隐藏AmbushZone 和backWell 可以看见上述射击孔。没有枪械用弓驽也能起到很强的阻吓效果，一般敌人不会贸然进入伏击区
 <br/>
 <br/>17、针对上述结构的有效战斗形态主要包括fpv无人机+机器狗、烟熏水淹、封闭地道、钻孔进入特定地点攻击、等
 <br/>18、「伏击区」采用倾斜地面，烟熏水淹投掷爆炸物都会被引导去「伏击区最低部」。
