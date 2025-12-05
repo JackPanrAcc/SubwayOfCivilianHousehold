@@ -31,7 +31,6 @@
 <br/>
 <br/>3、本方案所涉及的伏击区的重要点位
 <br/>3.1、「伏击区前线竖井」中轴线下端点是整个地道的测绘基准点，记为《<b>frontWell</b>》
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontWell距地表约10米。包含主出入口竖井4米、无防护集结区2米、伏击区前线竖井4米
 <br/>3.2、「首席伏击岗哨」和frontWell点等高，记为《<b>theGuard</b>》
 <br/>3.3、「伏击区后方竖井」中轴线和frontWell、theGuard等高的地方，记为《<b>backWell</b>》
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;backWell 会安排通风孔和通讯线孔，其位置可以得到进一步校正
@@ -71,7 +70,9 @@
 <br/><del><sub>关于地道伏击战术</sub></del>
 <br/>13、伏击区侧面结构 见下图
 <br/><img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAmbushDesign.jpg'><br/>
-<br/>13.1、frontWell轴和「伏击区斜坡」交汇点记为《伏击区中心点/AmbushRoomCenter》
+<br/>13.1、frontWell轴和「伏击区斜坡」交汇点记为《伏击区中心点/AmbushRoomCenter》。这是着陆点，其斜坡会成为爆破的重点
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;修理时遇到小坑可以填回去。遇到大坑把「步行道、长斜坡、短斜坡」整体下移，此时，也会增加「步行道的扶手斜坡」的斜率
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伏击区建成后frontWell 距地距离是固定的。约12米，包含主出入口竖井5米+无防护集结区2米+伏击区前线竖井5米
 <br/>13.2、斜坡步行道的宽度推荐0.3米。需要错开frontWell竖井。施工时有大型珩架。平时放置小型的辅助码头，伏击前及时撤走辅助码头
 <br/>13.3、步行道下侧斜坡斜率推荐45度。参考弹坑的坑壁稳定角，粉质土约35度，粘土约45度，岩石类约60度
 <br/>13.4、《伏击区最低平面》距离《下侧短斜面最高点》垂直距离最少1米。避免底部爆炸的回填土垫高底部
@@ -83,7 +84,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主伏击岗后侧是一个竖井。若有手雷进入战壕则丢进竖井
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主伏击岗附近设灯光照向伏击区的屋顶，通过反射光进行照明
 <br/>15、针对frontWell 竖井内的敌人设置骚扰哨位。射击口大小酌情80x35x5
-<br/>16、在AmbushRoomCenter正下方设置狙击哨位，单兵防守时此位置可放置遥控步枪。射击孔大小酌情200φ10
+<br/>16、在AmbushRoomCenter正下方设置狙击哨位。射击孔大小酌情250φ10。射击口用金属管保护，被堵时用子弹打击后捅管疏通
 <br/>
 <br/>17、上述结构中一般敌人不会贸然追击。有效的战斗形态主要包括fpv无人机+机器狗、烟熏水淹、封闭地道、钻孔进入特定地点攻击、等
 <br/>18、「伏击区」采用倾斜地面，烟熏水淹投掷爆炸物都会被引导去「伏击区最低部」。
