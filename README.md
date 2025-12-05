@@ -1,4 +1,4 @@
-#   Cheaper Shelter：$10000 save 30 peoples（未完成）
+#   Cheaper Shelter：$10000 save 30 peoples
 项目目标：为满足战区平民的生命避难需求，设计一套「<mark>可低成本自助建设的地下避难所</mark>」的方案
 <br/>项目思路：向下挖掘「5米深的竖井」后构造「伏击区」拒敌进入。伏击区的后方再设置「气封防爆门」可以避免烟熏水淹危及避难者
 <br/><mark>重要提示</mark>：
@@ -7,10 +7,10 @@
 <br/>3、<b>地层性质</b>。地下50米内有地质断裂带或流沙等结构则不可执行。地质结构太软需要增加支撑结构，支撑工程量太大太难不建议挖掘
 <br/>
 <hr>
-<br/><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama.jpg'>
+<br/><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama2.jpg'>
 <br/><sub>方案说明：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold'>https://jackpanracc.github.io/SubwayOfCivilianHousehold</a></sub>
 <br/><sub>三维概览：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
-<br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.v08.FCStd'>下载后、可以使用「开源的FreeCAD程序」查看和编辑源文件</a></sub>
+<br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.FCStd'>下载后、可以使用「开源的FreeCAD程序」查看和编辑源文件</a></sub>
 <br/><sub>项目地址：欢迎在这里登记您的技术建议 github.com/JackPanrAcc/SubwayOfCivilianHousehold</sub>
 <br/>
 <br/>
@@ -85,11 +85,12 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主伏击岗附近设灯光照向伏击区的屋顶，通过反射光进行照明
 <br/>15、针对frontWell 竖井内的敌人设置骚扰哨位。射击口大小酌情80x35x5
 <br/>16、在AmbushRoomCenter正下方设置狙击哨位。射击孔大小酌情250φ10。射击口用金属管保护，被堵时用子弹打击后捅管疏通
+<br/><img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAttack2.jpg'> 如图所示，隐藏AmbushZone 和backWell 的效果
 <br/>
 <br/>17、上述结构中一般敌人不会贸然追击。有效的战斗形态主要包括fpv无人机+机器狗、烟熏水淹、封闭地道、钻孔进入特定地点攻击、等
 <br/>18、「伏击区」采用倾斜地面，烟熏水淹投掷爆炸物都会被引导去「伏击区最低部」。
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伏击区步行道以下空间，多运一立方土壤，在遇到水淹时就会多一分钟时间撤离
-<br/>19、爆破、水淹和封闭地道在战术效用是一样的
+<br/>19、爆破、水淹和封闭地道在战术效用是一样的。竖井直径为1米，1.2x2.1的气密门门板横向切割三块1.2x0.7，组装后用橡胶垫和胶水实现气密性
 <br/>20、遭遇烟幕弹时，在骚扰岗哨或狙击岗哨，使用风扇朝frontWell 排空气。
 <br/>21、钻孔进入特定地点攻击，可能是手持钻孔机，也可能是JADM。预案成本太高没必要。遇见时用冲锋枪把人赶走、再把孔堵塞
 <br/>
@@ -111,5 +112,30 @@
 <br/>27、主出入口竖井很难伪装。「手持电动钻井机」破土后用「吊篮」运走土壤。主出入口有大量土壤运出，在战略上应当认定不具备保密性
 <br/>28、雷达的探地深度不同：400MHz大约探地4米，200MHz大约探地9米，50MHz即便在复杂城市环境探地距离也超过10米
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;各波段雷达产品均有单人携带的产品。遇到强大的敌人则假定其准确知晓地道走向。可见，低成本避难并不适宜保护高价值目标
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>附：设备清单
+<br/>1、电阻式找水仪。$1000，如果可能建议租借
+<br/>
+<br/>2、直径0.1米的手持式电动钻井机。$500
+<br/>3、两扇气密门。酌情$500
+<br/>4、「空调风道」、「汽油发电机和风扇」和「手摇风扇」。$1000
+<br/>5、应急气瓶/制氧机/氧气发生药板，以及坍塌时报警所需的铜线缆式电话。$500
+<br/>
+<br/>6、竖梯和珩架，竖井滑轮吊篮机构、指南针、镜子、手电筒、等等。$50
+<br/>7、电费。此开支较大$5000
+<br/>8、土石运输和堆放成本。酌情$0
+<br/>9、人工费用被忽略，原因是自助挖掘。$0
+<br/>
+<br/>10、下列费用被忽略，原因是被计入后期维护成本
+<br/>10.1、地道主出入口监测有人进出红外传感器，光线传感器
+<br/>10.2、地道口方向错位房间内安装摄像头
+<br/>10.3、FrontWell 安装红外传感器、PM2.5、摄像头、光线传感器
+<br/>10.4、AmbushRoom 安装摄像头、狙击哨的铁管、照明系统
+<br/>10.5、BackWell 安装红外传感器、PM2.5、摄像头
+<br/>10.6、Shelter 处安装照明系统
+<br/>
 <br/>
 <br/>
