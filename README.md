@@ -6,8 +6,7 @@
 <br/>2、<b>地下水情况</b>。地下50米内有大量流动的地下水则不可执行。适度含水需要增加防水结构或控压结构，防水工程量太大太难不建议挖掘
 <br/>3、<b>地层性质</b>。地下50米内有地质断裂带或流沙等结构则不可执行。地质结构太软需要增加支撑结构，支撑工程量太大太难不建议挖掘
 <br/>
-<hr>
-<br/><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama2.jpg'>
+<hr><img width='500px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForPanorama2.jpg'>
 <br/><sub>方案说明：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold'>https://jackpanracc.github.io/SubwayOfCivilianHousehold</a></sub>
 <br/><sub>三维概览：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm'>https://JackPanrAcc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.htm</a></sub>
 <br/><sub>看源文件：<a target=_blank href='https://jackpanracc.github.io/SubwayOfCivilianHousehold/SubwayOfHousehold.FCStd'>下载后、可以使用「开源的FreeCAD程序」查看和编辑源文件</a></sub>
@@ -85,9 +84,9 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主伏击岗附近设灯光照向伏击区的屋顶，通过反射光进行照明
 <br/>15、针对frontWell 竖井内的敌人设置骚扰哨位。射击口大小酌情80x35x5
 <br/>16、在AmbushRoomCenter正下方设置狙击哨位。射击孔大小酌情250φ10。射击口用金属管保护，被堵时用子弹打击后捅管疏通
-<br/><img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAttack2.jpg'> 如图所示，隐藏AmbushZone 和backWell 的效果
+<br/><img width='300px' src='https://jackpanracc.github.io/SubwayOfCivilianHousehold/photoForAttack2.jpg'> 如图所示，隐藏AmbushZone 和backWell 可看见上述射击孔。如果没有枪械，使用弓驽也能起到阻吓的效果，一般敌人应该不会贸然追击
 <br/>
-<br/>17、上述结构中一般敌人不会贸然追击。有效的战斗形态主要包括fpv无人机+机器狗、烟熏水淹、封闭地道、钻孔进入特定地点攻击、等
+<br/>17、针对上述结构的有效战斗形态主要包括fpv无人机+机器狗、烟熏水淹、封闭地道、钻孔进入特定地点攻击、等
 <br/>18、「伏击区」采用倾斜地面，烟熏水淹投掷爆炸物都会被引导去「伏击区最低部」。
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伏击区步行道以下空间，多运一立方土壤，在遇到水淹时就会多一分钟时间撤离
 <br/>19、爆破、水淹和封闭地道在战术效用是一样的。竖井直径为1米，1.2x2.1的气密门门板横向切割三块1.2x0.7，组装后用橡胶垫和胶水实现气密性
