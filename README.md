@@ -1,4 +1,4 @@
-#   Cheaper Shelter：$10000 save 30 peoples
+#   Cheaper Shelter：$10000 save 30 peoples（未完成）
 项目目标：为满足战区平民的生命避难需求，设计一套「<mark>可低成本自助建设的地下避难所</mark>」的方案
 <br/>项目思路：向下挖掘「5米深的竖井」后构造「伏击区」拒敌进入。伏击区的后方再设置「气封防爆门」可以避免烟熏水淹危及避难者
 <br/><mark>重要提示</mark>：
